@@ -39,15 +39,4 @@ Create a .env file in the backend/ root directory with the following variables:
 PORT=5000
 MONGO_URI=your_mongodb_atlas_connection_string
 
-Local Setup & Execution
-Clone the repository:
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
 
-Navigate to the backend directory:
-cd backend
-
-Install dependencies:
-npm install
-
-Start the server:
-node server.js
